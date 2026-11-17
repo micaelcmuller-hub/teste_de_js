@@ -1,0 +1,28 @@
+DIA 3 - MURAL DA EQUIPE
+
+Antes de entregar, salve este arquivo com o nome respostas_Nome_Sobrenome.txt.
+Se estiver em dupla, escreva os dois nomes no arquivo.
+
+Nome(s):MIcael e Vinicius
+Turma:vespertino V1
+Tema do aviso:
+
+1. O que aparecia na página antes de clicar no botão?
+Resposta:
+aperece a menssagem "Nenhum aviso aberto"
+
+2. O que apareceu depois do clique? Escreva o título e a descrição que você viu.
+Resposta: 
+ Apareceu a frase
+ "oficina de javaScript traga seu projeto para a pratica"
+
+3. Você mudou um texto no objeto aviso, salvou, recarregou e clicou de novo.
+O que aconteceu? Descreva com suas palavras.
+Resposta:
+ ira mudar a palavra de acordo com o que voce escreve escreveu.
+
+4. No seu código, qual é a diferença entre titulo e aviso.titulo?
+Por que os textos só mudam depois do clique?
+Resposta: 
+titulo e uma variavel que guarda informaçoes e aviso.titulo
+é a parte que retorna o valor pra o clinte.
